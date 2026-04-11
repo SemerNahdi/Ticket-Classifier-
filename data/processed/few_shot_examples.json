@@ -1,0 +1,2160 @@
+[
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [fab8emea8corporate8prd01] Premium Capacity is Overloaded 12/01/2026 22:32",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Accès POWER BI REATIL SCORE CARD",
+    "description": "Bonjour, est ce possible de diriger ce ticket vers l'équipe Power BI en charge de la Retail Score Card svp ?\n\nSuite à un changement de magasin, nous aurions besoin de changer la vue de notre collaboratrice Claire ALOY. Elle devrait avoir la vue PRH F004 & F045 sur la retail score card  de power bi et également sur dior connect et non plus la boutique CHEL.\n\nJe vous remercie d'avance de votre aide,\n\nBelle journée,\n\nFlavie MOLINARI\nBusiness Analyst Grands Magasins & Boutiques\n\n[Logo Dior]\n\nChristi",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1319---msaito@guerlain.jp-20240919_083810",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : msaito@guerlain.jp\n3) Requested for : msaito@guerlain.jp\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the co",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - CRM",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "LVMH FB| 19 East 57th St|  Givenchy Couture is no longer showing up as a retailer option",
+    "description": "When using the 445 application i cannot see any of my 2025 data for Givenchy couture, none of the doors show up and you are not able to find it in the dropdown menu.",
+    "entreprise": "LVMH FB",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "Microsoft PowerBI Online",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [Data/AI] [TrackSupportInbox] [Fabric Activator] Fabric&AASScheduleMonitorStoppedReceivingEvents 27/01/2026 02:48",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "O365-PowerBI",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Incident with the legends of Performance By Nationality",
+    "description": "Selected application: Travel Retail Excellence\nIncident with the legends of Performance By Nationality. Should be the nationality instead of %sales, etc. Incident for both % and Total Amount",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "Travel Retail Excellence",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1343-A new store opening Flannels Leeds under Melanie Burnham (Area-lcechnicka@diormail.com-20241017_152835",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : lcechnicka@diormail.com\n3) Requested for : Melanie Burnham (mburnham@diormail.com) and Andrew Woods (awoods@diormail.com)\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcont",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 26/08/2024 10:01",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "eCoTool#1 - Presence Rate (Product Availability)",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Change request] R877-Changer le calcul du taux de conversion-hcottin@diormail.com-20231002_115629",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Change request\n2) (2 fields) Requested by + Main contact : hcottin@diormail.com\n3) Requested for : hcottin@diormail.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in fron",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "PCD - Dior Connect (Clienteling)",
+      "impact": "1 - Majeur",
+      "urgence": "1 - Elevée",
+      "priorite": "1 - Critique"
+    }
+  },
+  {
+    "breve_description": "Sélection \"Conversion Rate\" n’affiche aucun graphique circulaire dans \"MAIN OMNICHANNEL KPI\"",
+    "description": "Selected application: Guerlain Media App\nBonjour,\n\nJe ne sais pas depuis quand le problème est présent mais j’ai identifié une anomalie dans Media Cockpit  > onglet Social, au niveau du bloc MAIN OMNICHANNEL KPI.\n\nDans ce bloc, il est possible de sélectionner 12 indicateurs (Clicks, Conversion Rate, CPC, CPM, CPV, etc.).\nPour chacun de ces indicateurs, l’application affiche normalement 6 graphiques circulaires permettant de répartir la valeur sélectionnée selon 6 niveaux de lecture : Market / Ca",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "Guerlain - Media App",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Discrepancy of Number of Services between RSC and Retail Analysis (UK Market)",
+    "description": "Hello,\nHope this message finds you well.\nWe found out that there's a Discrepancy of Number of Services between RSC and Retail Analysis (UK Market) and we investigated first:\n- The numbers of services of 3 POS (U714, U002 and U003) in Retail Analysis are higher than that in RSC.\n- The discrepancies come from 3 SKUs (free and redeemable), so this difference doesn't impact on Sell Out.\n\nCould you please clarify this discrepancy? \nPlease find more details in the attachement.\nThank you!\nBest regards,",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "EMPTY PARAMETERS",
+    "description": "Selected application: PCD - Retail Scorecard\nTiziana D'Amico, corner coordinator at  La Rinascente Catania, are not able to see the details on Retail Scorecard\nEverything appears as empty.\n\nHer correct email is tdamico@diormail.com and her phone number is +393356651149, may i  kindly ask you to contact her for further details?\n\nThank you\n\nRegards",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PCD - Retail Scorecard",
+      "impact": "2 - Modéré",
+      "urgence": "1 - Elevée",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Power bi",
+    "description": "Bonjour,\n\nJe vous remercie de bien vouloir me donner un accès à la version payante de Power Bi. J'ai ce message quand je souhaite faire une modification.\n\n\n[cid:image001.png@01DA7AB5.40AADE20]\n\nCordialement,\n\nLaurence DUPLOUY\nAdministration base articles Parfum et Soin\n\n[Logo Guerlain]\n\n23 rue de la Monnaie - 75001 Paris Cedex - France\nTél. +33 1 78 95 25 06 - Port. +33 7 84 58 34 56\nEmail. lduplouy@guerlain.fr<mailto:lduplouy@guerlain.fr>\n\nDiscover our online Boutique on www.guerlain.com<http:/",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "Self BI",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [Data/AI] [Proact] [Platform] [Power BI] [fab8emea8selfbi8prd01] FabricCapacityInteractiveDelay 03/02/2026 09:07",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "DW-ORION-DATAHUB-NUIT - ZDVPCDSELLINNEWVIZ01 - StartASRefreshTask.redirect.bat - PCD Sell-In NewViz (Daily) Dex: DE942-EXP001-PCDSELLINNVZ-DAILY - Job KO",
+    "description": "Errors were encountered while processing the AS-refresh using the command file \"\"DatahubSellinActivityDailyRefresh.xmla\"\" with the ex\\\nit code 1 (0x01). See log details above.\nTotal Page Fault Count: 193146",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - Sell in Activity",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Création de compte guest",
+    "description": "Bonjour,\n\nPourriez vous svp affecter ce ticket à l'équipe WW - EXCHANGE?\n\nIl faudrait créer un compte guest pour cet utilisateur\nSerena HAM sham@christiandior.com<mailto:sham@christiandior.com>\n\nMerci,\n\n\n/!\\ Prochains congés / Next OOF :\n\nNicolas HIMBERT\nDataViz support Lead\nData & Analytics\n\n[Logo LVMH Beauty Tech]\n\n11 rue Blaise Pascal, 92200 Neuilly sur Seine / France\nDirect line                : +33 1 41 99 62 71\nSupport Power BI : +33 1 41 99 68 10\nnhimbert@pcis.lvmh-pc.com<mailto:nhimbert@",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "MICROSOFT EXCHANGE",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Request for Two Separate POS Data for ISETAN Kyoto (JP)",
+    "description": "Hello,\n\nI hope this mail finds you well.\n\nThe Japan market has raised a request concerning the ISETAN Kyoto POS, which includes one boutique and one MCD (LCP counter). Currently, the Retail Scorecard only displays data from one point of sale. The retail sales team would like to have a view of performances from both the boutique and the MCD separately.\n\nCould you please assist with this request?\n\nThank you for your support.\n\nBest regards,\nBeifei\n\n-------\nPcis tag :FRLT00976994\nTéléphone:  +33 1 4",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Ecran Clienteling Performance plus alimenté",
+    "description": "Selected application: [O365-PowerBI] Guerlain - Retail Performance\nSource BeeGold dans Clienteling Source n'apparaît plus, l'écran Clienteling Performance de la BI Retail n'est plus alimenté\nImpact aussi la BI CRM Clienteling",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Guerlain - Client Retail Performance",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "TR: New door + MAJ database POS retail",
+    "description": "Bonjour,\n\nSuite à ma demande du 26/04, je constate que la POS ci-dessous n'est toujours pas rattachée au Vietnam :\n\n[cid:image008.png@01D97C46.1057E150]\n\nPourriez-vous passer les modifications demandées dès que possible svp ?\n\nMerci par avance,\n\nBien à vous,\n\nCéline GROSSE\nInternational Business Analyst\n\n[Logo Guerlain]\n\n23 rue de la Monnaie - 75001 Paris Cedex - France\nEmail: cgrosse@guerlain.fr\nMobile: +33 (0) 786421782\nDiscover our online Boutique on www.guerlain.com<http://www.guerlain.com/>",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Guerlain - NewViz",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "New Access for Dior",
+    "description": "Hi team, \n\nCan the user Charis Chasi have access to the Retail Scorecard for Dior please? \n\nRegards, \nPerry",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Sayaka NAKAJIMA (s.nakajima@jp.lvmh-pc.com): No data loading in Retail Scorecard and Retail Analysis dashboards (Japan market)",
+    "description": "Selected application: PCD - Retail Scorecard\nHello,\nHope this message finds you well.\n\nSayaka NAKAJIMA (s.nakajima@jp.lvmh-pc.com) lost access to Retail Scorecard and Retail Analysis dashboards (Japan market). No data is shown on the dashboards.\n\nCould you please inverstigate on this? \n\nThank you,\nBest regards,\nBeifei",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "1 - Majeur",
+      "urgence": "1 - Elevée",
+      "priorite": "1 - Critique"
+    }
+  },
+  {
+    "breve_description": "Changement du code couleur d'un indicateur",
+    "description": "Selected application: PCD - Retail Scorecard\nBonjour, \nSerait-il possible de modifier le code couleur des données affichées sur la ligne vs Target svp ? \n\nIl faudrait que : \n- la donnée soit en rouge si le résultat est inférieur à 100% \n- la donnée soit en vert si le résultat est supérieur à 100% \n\nMerci beaucoup pour votre aide, \nClémence",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Request for Prospects Conversion Report",
+    "description": "Selected application: PCD - Client Quest Main Reports\nHi team, I hope you are well. I am reaching out to inquire about the possibility of implementing a filter within the Prospect Conversion Report that would enable a breakdown of prospect conversion, segmented by POS type and POS name.",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Creation user Client Quest - droits WW",
+    "description": "Selected application: [O365-PowerBI] PCD - Client Quest Main Reports\nHello,\n\nJ'espère que vous allez bien.\n\nPouvez-vous donner accès à Client Quest avec des droits WW à :\n - Sharleen VINCENT  svincent-ext@diormail.com\n \nMerci d'avance,\n\nTsiory",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "La Data/AI Care Team vole à votre secours – CIBLE1791🚒📊",
+    "description": "Bonjour Bianca,\n\n\n\nNous avons remarqué que certains de vos usages Power BI en date du 03/12/2025 à 10h37 (WW-MM-ML Sales Forecast) sont particulièrement intensifs (💪) — et cela peut parfois se traduire par des lenteurs ou des comportements un peu capricieux de vos rapports.\n\n\n\nPas d’inquiétude ! Notre équipe Data/AI Care Team (alias les pompiers de la Data 🔥🧯) est là pour vous accompagner et optimiser votre expérience.\n\n\n\n🎯 Pourquoi ce message ?\n\n\n\nNous avons détecté un volume d’activité ou un m",
+    "entreprise": "MAKE UP FOR EVER",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "MM-ML Sales Forecast",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] PBI - KO Job - PCD - PCS - Retail analysis Data Model - 22/Aug/2024 10:02 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 10/06/2025 17:17 Adrien PRAMPOLINI",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1698-We need a workplace  creation  for our  forecast  Power BI-cbirgen@lvmh-pc.com-20260303_132803",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : cbirgen@lvmh-pc.com\n3) Requested for : cbirgen@lvmh-pc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the ",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [PBI_EMEA_SELFBI_PRD] Premium Capacity is Overloaded 10/03/2025 07:35",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "PBI issue",
+    "description": "tel : 984228\nloc : Europe/Denmark/Copenhagen\ntag : +4560402986",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Premium Capacity is Overloaded 14/08/2024 12:31",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "O365 - BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Dahboard access request - Guerlain CRM",
+    "description": "Selected application: [O365-PowerBI] Guerlain CRM\nHello,\n\nWe would need access to the this PowerBI dashboard: \"Guerlain CRM\" for the following users: \nRemi PEREZ-ROUSTIT (rperezroustit@pcis.lvmh-pc.com)\nRomane AKRAM (romane.akram@pcis.lvmh-pc.com)\nShannon YAP (shayap@pcis.lvmh-pc.com)\n\nThanks!",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - CRM",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Power BI slowness  (Retail Analysis Cube)",
+    "description": "Dear all,\n\nI hope you are doing well!\n\nWe have noticed some slowness on Power BI, and some visuals occasionally fail to load. Please find a screenshot below for reference :\n[cid:image009.png@01DBD3DA.72928DA0]\n[cid:image001.jpg@01DBD3DA.CCA29560]\n\n\nWe are currently using the new Retail Analysis cube.\n\nWould you know what might be causing this ?\n\nBest regards,\n\nThéo LE VOT\nData Owner Sales & Distribution\n\n[Logo Guerlain]\n\n23 rue de la Monnaie - 75001 Paris Cedex - France\nTél. +33647113776 - Port.",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "Guerlain - NewViz",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1179-Accès Retail App-jdarsonval@guerlain.fr-20240520_140932",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : jdarsonval@guerlain.fr\n3) Requested for : Mariana Tiscornia, matiscornia@fac-sa.com.ar\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asteris",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - Client Retail Performance",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "URGENT - Suppression d'AnyDesk - Demande l'équipe Sécurité",
+    "description": "Bonjour,\n\nL'équipe sécurité nous demande de supprimer en urgence l'application AnyDesk sur le poste, dû à une faille de sécurité.\n\nPouvez-vous supprimer manuellement le logiciel AnyDesk sur le poste de travail.\n - Soit en allant dans Ajouter et Suppression des programmes\n - Soit en utilisant la commande suivante\n  ○ \"C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe\" --uninstall\n\nNom : Nicolas HIMBERT\nPoste : FRLT00977861\n\nCordialement\n\nOlivier REMOLU",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "WorkspaceOne",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "TR: Problème de remontée des ventes BHV",
+    "description": "Bonjour,\n\nLe problème sur la remontée Power BI persiste pour le BHV (ticket n° INC0590185).\n\nPourriez vous m’aider à résoudre ce problème ?\n\nMerci d’avance,\n\nDanaë BOUSSIDAN\nAssistante Contrôleur de Gestion - Marché France\n\n[Logo Dior]\n\nChristian Dior Parfums\n190-192 avenue Charles de Gaulle - 92200 Neuilly sur Seine / France\n✉ 33 rue Garnier - 92200 Neuilly sur Seine / France\nTel. : +330787309813\nEmail. : dboussidan@diormail.com<mailto:dboussidan@diormail.com>\n\n\n\nDe : Danae BOUSSIDAN\nEnvoyé : l",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Licence Power BI",
+    "description": "Hello,\nCould you please give me a Power BI pro license ? This request has been approved by my manager in copie.\nThank you,\nSophie Boué",
+    "entreprise": "KENDO",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Matériel",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "La Collection privée mal mappé dans high value",
+    "description": "PCD - Retail Analysis\nBonjour,\nSur PB Retail Analysis toutes les refs La Collection privée ne sont pas inclues dans \"High Value Offer\". La LCP devrait normalement être totalement intégré à la High value.",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "not correct data vs others users for the same period of analysis",
+    "description": "Selected application: PCD - Client Quest Main Reports\nData for YTD October are not correct. Please help as others users see the correct data for the client quest dashboard.",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Give access to the Retail BI to the Vietnam team",
+    "description": "Selected application: [O365-PowerBI] Guerlain - Retail Performance\nHello, \nCould you give access to the the Retail BI to the Vietnam team? \n- mmay@guerlain.fr\n- cnguyen@guerlain.fr\n- mycao@guerlain.fr\n\nThank you",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - Client Retail Performance",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Retail Score Card setup for new store Dior Yorkdale- Store Code 101",
+    "description": "Selected application: PCD - Retail Scorecard\nRetail Score Card setup for new store Dior Yorkdale- Store Code 101\nConfigure same setup as Rennai CA Store.",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Medium - DTR - Anomalie : No stock data and wrong last update date.",
+    "description": "Bonjour Equipe Support,\n\nCe problème concerne les processus DTR – DIRECT TO RETAIL, merci de le signaler dans le champs « Eléments de configurations »/ « Configuration Item » avec la valeur « DTR – DIRECT TO RETAIL »\n\nPOS Concerné : All\n\nMarché concerné : All\n\nApplication : PBI\n\nJe rencontre le problème suivant :\n\nRésultat attendu : data stock à jour avec date au 24/02/2025\n\n\nRésultat constaté :\n\n[cid:image001.png@01DB869C.71B24410]\n\nComment j’ai obtenu le résultat : Contrôle du Daily evo stock ",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PCD - Direct To Retail",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "RE: Aventura reporting - Retail Scorecard issue",
+    "description": "Hello Help1111,\n\nCan you open a ticket for the issue raised by Stan Zhen?\n@Stan ZHENG<mailto:stzheng@pcis.lvmh-pc.com> : for better topic tracking, we need to log incidents in  Open Up - Service Portal (service-now.com)<https://lvmhpcis.service-now.com/sp>\n\nBest regards,\nPowerBI Support TEAM\nCOE Data & Analytics\n\n[cid:image003.png@01DA2376.C0E5F520]\n\n11 rue Blaise Pascal, 92200 Neuilly sur Seine / France\n\n\n\nDe : Stan ZHENG <stzheng@pcis.lvmh-pc.com>\nEnvoyé : jeudi 30 novembre 2023 05:06\nÀ : Zaka",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "PCD - Retail Scorecard",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] DataViz SharedFolders - Demande de mise en place de nettoyage auto sur les dossiers de DEV - 27/11/2024 (TR: LVMH-PCIS - Service Request : Analy",
+    "description": "Bonjour Helpdesk Team,\nPourriez-vous adresser cette demande à l’équipe en charge de l’administration des machines OnPrem (en l’occurrence le serveur SRVW2776).\n\nBonjour Admin Servers OnPrem,\n/!\\ Cette demande ne concerne que le dossier de DEV suivant \\\\lvmh-pc.lvmh\\appli\\DATAVIZ_DEV\\DV<file://lvmh-pc.lvmh/appli/DATAVIZ_DEV/DV> /!\\\nPourriez-vous mettre en place une mécanique de suppression automatique de fichier sur le serveur SRVW2776 pour les fichiers situés sous le dossier suivant : \\\\lvmh-pc.",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Retail Scorecard Translation (English to Japanese)",
+    "description": "Hello Zakaria,\n\nHope this mail finds you well.\n\nI'm reaching out regarding a translation request from the Japan Market. Please find the attached translation list.\nI'd like to clarify the following:\n- If I understand correctly:  Titles and KPIs that have already been translated into Japanese may be modified.\n- However, if the titles and KPIs are in English, we can't make changes to them.\nCould you please highlight the lines that can't be translated and send the document back to us?\n\nThank you,\nKi",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "New user in CRM team in Taiwan",
+    "description": "Selected application: PCD - Client Quest Main Reports\nNew team member in Taiwan to access CRM market data\nGrace WU gwu@diormail.com",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R378-Power BI Data Gateway is not working-kiran.vemula@lvmhuspc.com-20220616_170436",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (3 fields) Requested by + Requested for + Main contact : kiran.vemula@lvmhuspc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the contact email add",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "O365-PowerBI",
+      "impact": "1 - Majeur",
+      "urgence": "1 - Elevée",
+      "priorite": "1 - Critique"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R894-I would like access to Guerlain's CRM BI-fion.ye@lvmhcapc.com-20231016_153132",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : fion.ye@lvmhcapc.com\n3) Requested for : fion.ye@lvmhcapc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of th",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - NewViz",
+      "impact": "4 - Utilisateur",
+      "urgence": "4 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [DailyCheck] AAS - KO Job - LFB NewViz - 14/11/2022 10:04",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 7 fields of this ServiceNow ticket with information in red bellow:\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nBusiness Se",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Orion Activity",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "DW-ORION-DATAHUB - ZDVPBIFTSGUERETAIL01 - StartPBIPartialRefresh.bat - GUE - PCS Retail Analysis FTS refresh Power BI model - Dex: DE1246-EXP001 - Job KO",
+    "description": "Cannot bind argument to parameter 'Database' because it is null.\nErrors were encountered while processing the AS-refresh using the ASPartialRefresh file \"\"default.json\"\" with the exit code 1 (0x01).\\\n See log details above.",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "Guerlain - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] PBI - KO Job - GUE-Retail-CRM Performance - Data Model - 29/Aug/2024 10:03 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "Guerlain - CRM",
+      "impact": "2 - Modéré",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] PBI - KO Job - B2WISE - DataSet - 28/Apr/2025 10:03 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Supply Demand Driven KPIs",
+      "impact": "2 - Modéré",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [Data/AI] [Prevent] [Platform] [Power BI] Power BI application in bad health 05/03/2026 10:25",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "DEALS#3 - Indirect Purchase",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Lenteurs NewViz et rapports BI",
+    "description": "Bonjour,\n\nJe vous contacte car il y a des lenteurs assez significatives sur nos rapports, les données et visuels mettent du temps à charger.\n\nMerci d'avance,\n\nLoane Le Clouërec\n\nLoane LE CLOUËREC\nInternational Business Analyst Intern\n\n[Logo Guerlain]\n\n23 rue de la Monnaie - 75001 Paris Cedex - France\nEmail. lleclouerec@guerlain.fr\n\nDiscover our online Boutique on www.guerlain.com<http://www.guerlain.com>\n\n[Logo Facebook]<https://www.facebook.com/Guerlain/>  [Logo Twitter] <https://www.twitter.co",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Guerlain - NewViz",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 20/03/2025 18:33 Haolan GU N3 180",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Création de groupes de sécurité MFK Transport Carbon",
+    "description": "Bonjour,\n\nPourriez-vous adresser cette demande à l'équipe WW - SUPERVISION & OPERATIONS, en charge de créer des groupes de sécurité « mail-enabled » SVP ?\n\nCi-dessous, la liste des 4 nouveaux groupes concernant le projet MFK Carbon Footprint, à créer en tant que groupe de sécurité mail-enable dans l'OU « POWERBI-AAS ».\nCes groupes iront compléter les groupes déjà existants pour les maisons GUE, LFB, MUFE et PCD\n\nGU-O365-CLOUD-PBI-AAS-UAT-CO2TR-MFK-BUILD\n\nGU-O365-CLOUD-PBI-AAS-UAT-CO2TR-MFK-READ\n",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "ACTIVE DIRECTORY",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Revenus clienteling qui n'apparaissent pas dans les SO Dior Connect de la BI ou dans les revenus BC Initiatives.",
+    "description": "Selected application: PCD - Dior Connect (Clienteling)\nBonjour,\n\nLe marché France nous a informé que plusieurs ventes ne figuraient pas dans les revenus clienteling :\n\n- Carine Colombat vente à 1200€ suite à un contact whatsapp le 08/07. La vente ne figure pas dans les BC initiatives, à quel revenu est-elle donc rattachée?\n\n- Catherine Rodrigue, ID FRF028015825, vente en Order From Store 1200€ (n°commande :  106045131), le 08/07. La vente remonte dans Power BI Order From Store mais pas dans BC I",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Dior Connect (Clienteling)",
+      "impact": "2 - Modéré",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[Help1111] Demande d'ouverture de flux - Power BI Data Gateway - Guerlain BEELEAN2",
+    "description": "Bonjour,\n\nPourriez-vous svp créer cette demande d'ouverture de flux et l'affecter à l'équipe RESEAU?\nCi-joint le formulaire contenant les détails de la demande.\n\nEn complément des accès déjà ouverts pour remplacer la passerelle BEELEAN, il s'avère qu'il manquait un shared folder caché dans la précédente demande\nEn effet, l'accès à \\\\lvmh-pc.lvmh\\GSA\\<file://lvmh-pc.lvmh/GSA/> est déjà fonctionnel mais il nous manque \\\\lvmh-pc.lvmh\\GSA\\<file://lvmh-pc.lvmh/GSA/>Chartres\n\nMerci,\n\nCdt,\nNicolas\n\n\n\n/",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Sécurité",
+      "service": "Network",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Power BI Desktop",
+    "description": "Hola buenos días, Necesito instalar la aplicación de Power BI desktop en mi ordenador. Si pudiera ser cuanto antes os lo agradezco. Bajo petición de Lola Sánchez. Muchas grcias\n\n+34 660-116227",
+    "entreprise": "LOEWE",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Matériel",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 10/02/2025 12:10",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "FAILED : PRD_RUN_PCD - DSS IT_CDP_AAS_PCD_CAMPAIGN_30_FULLTABLES_REFRESH_AAS: FAILED",
+    "description": "Started: Jul 14, 2025, 6:00:03 PM \nCompleted: Jul 14, 2025, 7:03:12 PM\nDuration: 1h 3m 8s \nStarted manually \n\n\n[{'message': 'Retry attempts for failures while executing the refresh exceeded the retry limit set on the request.', 'type': 'error'}, {'code': '0xC1450012', 'message': \"An error occurred during On-Premise Gateway related activity. Additional error details: DM_GWPipeline_Gateway_MashupDataAccessError\\r\\nReceived error payload from gateway service with ID 45541: We're sorry, an error occ",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - CRM - ClientQuest",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Fichier WWPCIS_PowerBI_License_Activity_summary_2024-W21.csv vide",
+    "description": "Export hebdo du fichier dans le dossier \\\\lvmh-pc.lvmh\\appli\\DATAVIZ_PROD\\DV\\PCIS\\GOV\\WRITE\\Power BI\\PBILicenseActivity\nExport de la semaine vide (même sans header)",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "MICROSOFT EXCHANGE",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "ajout user sous PBI (outlook/RF) pour ingrid.kehdi@lvmhfb.com sur les marchés ci-dessous",
+    "description": "Selected application: [O365-PowerBI] BI Finance\najout user sous PBI (outlook/RF) pour ingrid.kehdi@lvmhfb.com sur les marchés ci-dessous\n+4D10DTMO - TR Middle East - Kenzo\n+4E10ETMO - TR Middle East - Givenchy\n+4D10DXMO - Export Middle East - Kenzo\n+4E10EXMO - Export Middle East - Givenchy",
+    "entreprise": "LVMH FB",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Logiciel",
+      "service": "PowerBI SCALE",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "FAILED : PRD_RUN_PCD - DSS IT_CDP_AAS_PCD_CAMPAIGN_30_FULLTABLES_REFRESH_AAS: FAILED",
+    "description": "https://pcd-prd-dataiku-run.lvmh-pc.lvmh//projects/IT_CDP_AAS_PCD_CAMPAIGN/scenarios/IT_CDP_AAS_PCD_CAMPAIGN_30_FULLTABLES_REFRESH_AAS/runs/list/2026-03-29-10-00-03-993",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - CRM - ClientQuest",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Missing Yesterday Data on Indonesia ,Vietnam & Phillipines",
+    "description": "Data missing when chosing Yesterday  from  Indonésie, Vietnam & Philippines  in PCD RSC & Retail analysis",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Problème applicatif",
+      "sous_categorie": "Bug",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Retail Scorecard | Updated U Codes",
+    "description": "Hi team,\n\nHope you are well.\n\nDior have made some hierarchical changes regarding the Area Managers and Regional Managers. This needs to be reflected in the retail scorecard. \n\nPlease see attached updated PBI hierarchy with all u codes:\n\nPlease can we ask this request to be actioned on the below report pages.\n- Retail Scorecard\n- Retail Analysis tab\n- Dior Connect PBI\n\nSeparately, the HB Metro site goes live on Monday. Can we please request in advance for this to fall under HB Metro correctly? Re",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "2 - Modéré",
+      "urgence": "1 - Elevée",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Data is not synced?",
+    "description": "Selected application: [O365-PowerBI] ADP - CRM Central App\nThe total number is not aligned in the summary tab and in the breakdown table.\nFor example, the activation rate is 46% on top but it's showing 47.5% in the last row.\nKindly advise, thank you!",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "2 - Modéré",
+      "urgence": "2 - Moyenne",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Bonjour Farah ! Comme expliqué ci-desssus, je n'arrive pas à mettre à jour les données dans power BI. Power BI ne fonctionne pas, je n'arrive pas à sélectionner des données. Le problème survient également pour ma collègue Amal BEYDOUN. Pouvez-vous nous ai",
+    "description": "Bonjour Farah ! Comme expliqué ci-desssus, je n'arrive pas à mettre à jour les données dans power BI. Power BI ne fonctionne pas, je n'arrive pas à sélectionner des données. Le problème survient également pour ma collègue Amal BEYDOUN. Pouvez-vous nous aider à résoudre ce problème ? Nous avons besoin d'accéder à ces données pour faire des analyses",
+    "entreprise": "OFFICINE UNIVERSELLE BULY",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "BULY - Retail Scorecard light (Ipos)",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Bonjour on m'a donné accès au Connected sell in. or quand je tente de me connecter, je recois ce message d'errerur",
+    "description": "Selected application: Beauty Intelligence Sell In\nhttps://app.powerbi.com/groups/me/apps/7868d12b-9d6d-4179-ac24-bf9cf1722c47/reports/ca0a6a27-d269-4524-b6fd-1d5a22b90b08/70243adce005e5cdb2bc?ctid=bddddbb1-db54-40d5-b230-0609bcef2068&redirectedFromSignup=1&experience=power-bi",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Beauty Intelligence Sell In",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Appointments Reports] TH Addition & Access",
+    "description": "Selected application: [O365-PowerBI] Guerlain CRM\nHello, \nCould you please add Thailand in the Booxi Appointments Reports in the CRMBI and make sure the following people have access? \n- Vunsa TANGNIMITCHOK : vtangnimitchok@guerlain.fr\n- Benjawan KHONHKHANING: bkhonhkhaning@guerlain.fr\n- Warinthorn AMORNTHIPPOKIN: waamornthippokin@guerlain.fr\n- Yanisa PASAMONTRI: ypasamontri@guerlain.fr\n- Raelene HWAN: rhwan@guerlain.fr\nThank You.",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "Guerlain - CRM",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "lenteurs excessives pour ouvrir les rapport et  impossible d'exporter en excel",
+    "description": "Selected application: ADP - Retail Scorecard\nlenteurs excessives pour ouvrir les rapport et  impossible d'exporter en excel",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "ADP - Retail Scorecard",
+      "impact": "1 - Majeur",
+      "urgence": "1 - Elevée",
+      "priorite": "1 - Critique"
+    }
+  },
+  {
+    "breve_description": "Ticket - BI Panel Circana/NPD et Panel WW - Data viz evolution",
+    "description": "Bonjour,\n\nCeci est un ticket pour une demande de data viz evolution sur la page Region and Country focus de \n1) Competition Details - Circana - Power BI\nhttps://app.powerbi.com/groups/me/apps/ada70fad-0332-4881-b2bf-c8cb673a07fd/reports/28a5d5b2-4870-43d0-a91b-9be2dc19f6af/ReportSection64016a259c4ec0d22acd?experience=power-bi\n\net \n\n2) Competition Details - Panel WorldWide - Power BI\nhttps://app.powerbi.com/groups/me/apps/50db8d25-d663-440f-b5fa-8e9ea1a937cb/reports/55425e92-2771-47ba-8524-f818ee",
+    "entreprise": "LVMH RECHERCHE",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Beauty Intelligence Competitors Panel",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [fab8emea8corporate8prd01] Premium Capacity is Overloaded 22/12/2025 14:16",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "RE: Harrods 5th floor site",
+    "description": "Hi All,\n\nHope you are well?\n\nPlease can you help with the below request. Can we please check the site U050 is setup correctly for PowerBI.\n\nThank you,\nJason\niPOS Support\n[cid:image001.png@01DA10A3.383B6060]\n6 Lancer Square, London, W8 4AX, Entrance on Old Court Place/ UK\n+44 (0) 207 563 8819\nipossupportuk@lvmh-pc.com<mailto:ipossupportuk@lvmh-pc.com>\n\nFrom: Thomas GARVEY <tgarvey@diormail.com>\nSent: 06 November 2023 09:22\nTo: Jason PURSER <jpurser@lvmh-pc.com>\nSubject: Fwd: Harrods 5th floor sit",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "MAKE UP FOR EVER - BI Operations (BI Supply)",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Meaning of KPI : Campaign_Member_Status",
+    "description": "Selected application: PCD - Dior Connect (Clienteling)\nHello, \nI hope you're well, we are wondering what is the exact meaning of this KPI \"Campaign_Member_Status\" in Dior Connect dashboard / Performance tab/ Campaign section please ? \n\nMany thanks for your insights, \nClémence",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "PCD - Dior Connect (Clienteling)",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "TR: Demande accès complet BI Counters",
+    "description": "[Demande Urgente] Hello Helpdesk Team, pourriez-vous adresser cette demande urgente à l'équipe de support « WW - POWERBI » / Business Service « DEALS Counters » (qui devra donner des instructions aux équipes Collab-Tools SharePoint + PowerApps soit avec le même ticket, soit avec des tickets « fils »). Merci. Bonne journée. Cdt, Bruno.\n\n/!\\ Prochains congés / Next OOF : Aucun / No Plan.\n\nBruno BORNIL\nHead of Data/AI Solution Excellence & Client Experience\nLVMH Beauty Tech | CoE Architecture, Data",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "DEALS#3 Counters Purchase",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Media Cockpit - Social View: Reorder of Main Omnichannel KPI Metrics",
+    "description": "Selected application: Guerlain Media App\nBonjour,\n\nJ'espère que vous allez bien !\n\nNous avons besoin d'une modification dans l'application Media Cockpit, spécifiquement dans la vue \"Social\", section \"Main Omnichannel KPI\".\n\nL'objectif est d'inverser les positions des mesures \"Meta Paid Services Revenue\" et \"Meta Complementary Services\". Nous souhaitons que \"Meta Paid Services Revenue\" apparaisse directement sous \"Meta Paid Services\" pour une meilleure cohérence de lecture et d'analyse des donnée",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Guerlain - Media App",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Request Access 12/03/2024 11:46",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PCD - Dior Connect (Clienteling)",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1634-Création d'un Shared Folder pour le projet Zero Waste-pvilleneuve@pcis.lvmh-pc.com-20251022_135434",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : pvilleneuve@pcis.lvmh-pc.com\n3) Requested for : pvilleneuve@pcis.lvmh-pc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk characte",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "PowerBi - LVMH Beauty – Travel Retail Worldwide Air Traffic",
+    "description": "Les slicers (cases à cocher) sur les filtres Flight Type, Scenario & Departure/ Arrival sont partiellement masqués (voir PJ)  .",
+    "entreprise": "LVMH BEAUTY",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "LVMH Beauty – Travel Retail Worldwide Air Traffic",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Change request] R715-Modify the Manager name's displayed on Retail Scorecard-coMagne@pcis.lvmh-pc.com-20230707_071239",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Change request\n2) (2 fields) Requested by + Main contact : coMagne@pcis.lvmh-pc.com\n3) Requested for : coMagne@pcis.lvmh-pc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "4 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R90-workspace apply-shishizhu@cn.lvmh-pc.com-20210603_053058",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (3 fields) Requested by + Requested for + Main contact : shishizhu@cn.lvmh-pc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the contact email addr",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "O365-Office",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Aucune remontée",
+    "description": "Selected application: PCD - Global Performance Monitoring\nAucune données dans Power BI ce matin pour la journée de vendredi 10 .D'après les informations de Romain TEMLIN aucun Refresh de la BI depuis Vendredi",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Global Performance Monitoring",
+      "impact": "1 - Majeur",
+      "urgence": "1 - Elevée",
+      "priorite": "1 - Critique"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R354-demande accès à BI CHAMPION-jdicamillo@diormail.com-20220510_112114",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (3 fields) Requested by + Requested for + Main contact : jdicamillo@diormail.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the contact email addre",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "O365-PowerBI",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Power BI Desktop - Retrait des maj automatique",
+    "description": "Bonjour,\n\nEst il possible de sortir mon PC des mises à jour automatique de Power BI Desktop.\n\n\n\nCordialement,\n\n\n Olivier LE NARD\n\nDataviz Practice Manager Front (CRM/RETAIL/MEDIA)\nCOE Data & Analytics\n\n[cid:9416f6d5-b42b-4c35-bc11-eeeb43161ed6]\n\n11 rue Blaise Pascal, 92200 Neuilly sur Seine / France\n+33141995717 / +33676481062\nolenard@pcis.lvmh-pc.com<mailto:olenard@pcis.lvmh-pc.com>\n\n_____\n\n\n🏠 Remote :  Thursday\n\n🏝 Out of Office :  None\n\n❔ Support Contact : SNOW <https://lvmhpcis.service-now.co",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "Self BI",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 17/04/2025 09:42",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "PBI - Givenchy MX new feature",
+    "description": "Hello team,\n\nHope you are doing well, the brand ask about the possibility to implement a new KPI for the services, actually the dashboard present the services per day only when a transaction is created, but they are interest on the service/day without transactions, is this information available on the dashboard? The concert of the brand is to understand how many services are bringing with not sales and create a new strategy for that.\n\n\nThanks for your help, I really appreciate.",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Givenchy - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Demande accès",
+    "description": "Selected application: [O365-PowerBI] Guerlain - Retail Performance\nMerci de donner accès à la Guerlain Retail Performance App à Charline TANG sur tous les onglets",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "Guerlain - Client Retail Performance",
+      "impact": "4 - Utilisateur",
+      "urgence": "2 - Moyenne",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "DW-ORION2 - ZDVPBIADPSELLIN - StartPbiRefreshTask.bat - Acqua Di Parma SISO (Sell-In / Sell-Out) DEX: ZDVPBIADPSELLIN - Job KO",
+    "description": "No crendential found for SPN_PBI_ADMIN_PRD\nErrors were encountered while refreshing the PbiRefresh using the Dataset \"\"ADP-Sell-In\"\" with the exit code 1 (0x01). See log detail\\s above.\nTotal Page Fault Count: 138777 \"",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "ADP-Sell-In",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "TR: Transmission votre OTIF",
+    "description": "Bonjour,\n\nPoyvez-vous svp mettre à jour la liste de diffusion de l'otif pour les fournisseurs ci-dessous :\n\n[cid:image009.png@01D8A82E.56331560]\n\nPouvez-vous me confirmer dès que cela sera traité ?\nMerci\n\n\nCordialement, best regards,\n[cid:image007.jpg@01D8A82C.184F0990]\n\nMélanie GROULT-JAOUEN\nApprovisionnements AC UP Maquillage\n\nPARFUMS CHRISTIAN DIOR\n185, avenue de Verdun\nCS 40001\n45804 Saint Jean de Braye - France\n\nmgroultjaouen@diormail.com<mailto:mgroultjaouen@diormail.com>\n00 33 (0)2.38.25.",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Datas",
+      "service": "O365-PowerBI",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "CREATION GROUPES PCD QATAR & KSA",
+    "description": "Selected application: PCD - Forecast DataViz\nBonjour,\n\nMerci de créer dans wisebox les 2 nouveaux groupes respectifs concernant les nouvelles sous zep Qatar & KSA et mettre à jour le fichier excel (voir screen).\n\nMerci",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Forecast DataViz",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Création de groupes de sécurité eCoTool#2",
+    "description": "Bonjour,\n\nPourriez-vous adresser cette demande à l'équipe WW - SUPERVISION & OPERATIONS, en charge de créer des groupes de sécurité « mail-enabled » SVP ?\n\nVoici 2 nouveaux groupes concernant le projet eCoTool#2, à créer en tant que groupe de sécurité mail-enable dans l'OU « POWERBI-AAS ».\nGU-O365-CLOUD-PBI-AAS-UAT-ECO2-GUE\nGU-O365-CLOUD-PBI-AAS-UAT-ECO2-PCD\n\n\nPar avance, merci pour vos retours et actions : je suis à dispo pour tout complément d'information.\n\nBonne journée,\nNicolas\n\n\n\n/!\\ Procha",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "Not Referenced Service",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Changement de 'valideur' Métier LFB des demandes d'acces à l'application DRP",
+    "description": "Selected application: Anaplan DRP\nStéphanie Bloche, ex KU LFB, recoit encore les demandes d'accès pour l'application Anaplan DRP. \n\nMerci de vérifier / amender que les demandes d'accès LFB sont validées par : \n- Pierre Eric Gagnerot\n- Florent Dubuc\n-Nissa Malik\n\nStéphanie BLoche n'intervient plus dans la validation de ces demandes d'accès",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Sécurité",
+      "service": "Anaplan DRP",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "POS équippés/non équippés d'infoware",
+    "description": "Selected application: PCD - Retail Scorecard\nBonjour, Le dashboard POS coverage indique que certains points de vente ne sont pas équippés d'infoware alors qu'ils le sont en réalité. Est-il possible de comprendre pourquoi ces informations sont affichées telles quelles svp ? Merci, Clémence",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Power BI Workspace Creation",
+    "description": "Hi there, \n\nCan I please be given access to create new workspaces in Power BI. There are a couple of internal BPC projects I am working on and would like to have my own workspace to complete these and keep them separate from communal  workspaces.\n\nRegards, \nPerry",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[eCoTool#1-Monitoring] Revue de la palette des couleurs (remplacer le vert et le rouge par le jeu de palette joint)",
+    "description": "[eCoTool#1-Monitoring] Revue de la palette des couleurs (remplacer le vert et le rouge par le jeu de palette joint)\nLa palette à utiliser est en P.J. (cf. doc \"20260311_Palette de couleur au top.png\").\nURL en PROD cible : https://app.powerbi.com/groups/f7f06d24-616f-41bd-942b-f1a599521592/reports/60868385-a427-4a3b-8b92-85ff4c0dde8f/3f37d8b4410be735c705?ctid=bddddbb1-db54-40d5-b230-0609bcef2068&openReportSource=SubscribeOthers&experience=power-bi",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "eCoTool#1 - Presence Rate (Product Availability)",
+      "impact": "2 - Modéré",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Request for PBI Copilot License - Please assign the ticket to WW - POWERBI",
+    "description": "Request for PBI Copilot License - Please assign the ticket to WW - POWERBI",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "Power BI Usages",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "DW-ORION2 - ZDVPBIECO1GUE - StartPbiRefreshTask.bat - eCoTool1 Guerlain refresh PBI Dex: ZDVPBIECO1GUE - Job KO",
+    "description": "No crendential found for SPN_PBI_ADMIN_PRD\nErrors were encountered while refreshing the PbiRefresh using the Dataset \"\"GUE-eCoTool\"\" with the exit code 1 (0x01). See log detail\\s above",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "eCoTool#1 - Presence Rate (Product Availability)",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 29/04/2025 09:27 Elodie GUIHEUX.",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Change the condition to retrieve the OCD Date at the Forecast Area Level From EFAST",
+    "description": "There are multiple OCD dates for a given SKU at the Subarea level, because there are multiple campaigns.\nThe rule should be changed : take the MAX(OCD Date) including the following condition : \n\nMarket NOT IN ('N/A') AND Market IS NOT NULL\nAND CampaignItemStatus NOT IN ('4') AND CampaignItemStatus IS NOT NULL",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "MM-ML Sales Forecast",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Creazione di Area di lavoro comune",
+    "description": "Buongiorno,\nMi servirebbe il prima possibile un'area di lavoro comune in PBI, per il mio team (Me e @Giulia ARTIOLI<mailto:g.artioli@acquadiparma.it>) in quanto dobbiamo elaborare alcuni modelli su cui lavoriamo insieme, per la filiale Italia di ADP.\n\nPotete darci l'autorizzazione a crearne una?\n\nSe ci provo, mi dice questo messaggio di errore:\n\n[cid:image005.png@01D8D27F.145F9E80]\n\n\nGrazie mille\n\n\nAlessandro Gambino\nSales & Business Analyst\n\n\n[cid:image001.png@01D8D27F.05E82890]\n\n\nPhone: + 3902",
+    "entreprise": "ACQUA DI PARMA",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Datas",
+      "service": "O365-PowerBI",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "La Data/AI Care Team vole à votre secours – CIBLE1983🚒📊",
+    "description": "Bonjour Lucien,\n\nNous avons remarqué que certains de vos usages Power BI en date du 02/03/2026 à 09h16 paris time (PC - Datahub - Direct To Retail) sont particulièrement intensifs (💪) — et cela peut parfois se traduire par des lenteurs ou des comportements un peu capricieux de vos rapports.\n\nPas d’inquiétude ! Notre équipe Data/AI Care Team (alias les pompiers de la Data 🔥🧯) est là pour vous accompagner et optimiser votre expérience.\n\n🎯 Pourquoi ce message ?\n\nNous avons détecté un volume d’activ",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "PCD - Direct To Retail",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] PBI - KO Job - Self-BI Reporting Chorus S&OP - 26/Jun/2024 10:03 AM",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 7 fields of this ServiceNow ticket with information red bellow:\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nBusiness Servi",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "FR_P&C - Reporting Chorus S&OP",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Création de groupes de sécurité Pricing BUILD",
+    "description": "Bonjour,\n\nPourriez-vous adresser cette demande à l'équipe WW - SUPERVISION & OPERATIONS, en charge de créer des groupes de sécurité « mail-enabled » SVP ?\n\nVoici 12 nouveaux groupes concernant le projet Pricing, à créer en tant que groupe de sécurité mail-enable dans l'OU « POWERBI-AAS », afin de compléter les 12 groupes READ déjà existants.\nGU-O365-CLOUD-PBI-AAS-UAT-PRICING-ALLBRANDS-ALLMARKETS-BUILD\nGU-O365-CLOUD-PBI-AAS-UAT-PRICING-GUE-ALLMARKETS- BUILD\nGU-O365-CLOUD-PBI-AAS-UAT-PRICING-LFB-A",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "Pricing Dashboards",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "RE: [ Changement entrepôt MUFE- Impact Powerbi Supply ]",
+    "description": "Bonjour Florence,\n\nTout d’abord, félicitations à la jeune Maman que tu es devenue !\nEt bon retour aux affaires.\n\nPour le changement d’entrepôt, oui, nous étions au courant mais n’avions pas anticipé ce cas-là.\nMerci de l’avoir mis en lumière.\nNous allons regarder précisément ce qui pose le soucis afin de le corriger le plus en amont possible.\n\nJ’ajoute Cyril et Florian dans la boucle (même s’ils sont en congés cette semaine) car ils ont œuvré aux vérifications de ce changement d’entrepôt.\nEt je ",
+    "entreprise": "MAKE UP FOR EVER",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "MAKE UP FOR EVER - BI Operations (BI Supply)",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Datas manquantes",
+    "description": "Bonjour,\n\nJe me permets de vous signaler qu’il manque des datas sur certains POS (Institut Spa BM et Samaritaine) sur la journée du 12/09/23.\nJ’ai confirmé avec les manageuses, elles ont bien fermé la caisse et enregistré des ventes durant la journée.\nOr, sur certains POS les datas de cette même journée sont bien présent (ex : boutique Lyon).\n\n[cid:image002.png@01D9E63A.6C3D2B20]\n\nPouvez-vous mettre à jour les datas pour tous les POS s’il vous plait ?\n\nMerci pour votre aide,\n\nBelle journée,\n\nBie",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PCD - Retail Scorecard",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Retail scorecard NPS - no data",
+    "description": "Selected application: PCD - Retail Scorecard\nBonjour, \nIl n'y a aucune data de disponible sur la tab NPS de la RSC. Pourriez vous regarder s'il-vous-plaît ? \nMerci beaucoup, \nClémence",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "2 - Modéré",
+      "urgence": "2 - Moyenne",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Unable to use Power BI",
+    "description": "Hello and Happy Tuesday,\n\nThank you for assisting me yesterday.\n\nI have attempted to utilise the Retail Performance app but am unable to view the following:\n\nNational results and stores;\nThe WASA Region including BTQs;\nDior Connect\nRM Scorecard\n\nI believe my new email is not recognised.  Can you please assist?\n\n[cid:image002.png@01DB29D7.AB292730][cid:image003.png@01DB29D8.136B3770]\n[cid:image004.png@01DB29D8.136B3770]\n\nThank you.\n\nWarm regards,\n\nKaren\n\nKaren Davies\nDior Retail Manager WA SA\n\n[c",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Suppression comptes inactif",
+    "description": "Selected application: [O365-PowerBI] PCD - Client Quest Main Reports\nHello,\n\nJ'espère que vous allez bien.\n\nVu durant notre weekly, pouvez-vous faire un nettoyage des users CQ en supprimant tout ceux qui sont inactifs depuis 6 mois.\nIl faudrait que ce soit fait pour la rentrée dans l'idéal.\n\nMerci.\n\nTsiory",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Client Quest Main Reports",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Demande Modification Dataset B2wise",
+    "description": "Selected application: Supply Demand Driven KPIs\nBonjour,\n\nNous avons besoin d'ajouter 3 nouveaux calculs/mesures dans le dataset b2wise et modifier le format d'un champ date.\n\n- Colonne calculée dans WarehousePart et PartsOnly : ZJ_Valorisée = Yellow_Zone * unitcoststandard\n- Mesure  : AMU moyen = Mesure ADU moyen *21\n- Mesure : Mesure ADU pour historique M-1, M-3, M-6,...\n---------\nADU_M-1 = VAR M_1 = CALCULATE(MAX('DW vvWarehouseParts'[ImportDateTime])-28, ALL('DW vvWarehouseParts'))\nRETURN\nCA",
+    "entreprise": "LVMH FB",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Supply Demand Driven KPIs",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Partage BI entre finance et supply chain",
+    "description": "Selected application: [O365-PowerBI] Self BI\nBonjour,\n\nJ'ai essayé de partager la BI qu'on utilise au sein du supply chain à le département finance. J'ai fait tout d'abord publier la Bi dans mon espace de travail(la seule option lors de la publication) et puis l'icône partager sur le web. Mais le Power BI me demande de contacter mon administrateur général Microsoft 365 pour mettre à nouveau mon licence.\nEst-ce qu'il existe d'autres façons que je puisse le partager avec la finance?\n\nMerci par ava",
+    "entreprise": "MAKE UP FOR EVER",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Doubts about the proper procedure to request Power BI Pro licenses",
+    "description": "Selected application: Self BI\nHi.\nOur team receives several tickets for Power BI Po Licenses.\nWe would like to know the proper procedure to attend these tickets, since we do not have the permissions to assign them.\n\n1. We receive tickets from AMER users as well as Worldwide (for Benefit)\n2. Most of the times, when the Service Desk receives the tickets, they automatically assign them to our team\n\n3. We question the users about the need of the license and the limitations of it\n4. If they indeed ne",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Mail2 21/06] Extraction PBIActivity",
+    "description": "Bonjour,\n\nPourriez-vous svp affecter ce ticket à l'équipe WW - EXCHANGE ?\n\n\nDepuis lundi 3 juin 2024, nous avons un soucis avec les fichiers exportés dans ce dossier : \\\\lvmh-pc.lvmh\\appli\\DATAVIZ_PROD\\DV\\PCIS\\GOV\\WRITE\\Power<file://lvmh-pc.lvmh/appli/DATAVIZ_PROD/DV/PCIS/GOV/WRITE/Power> BI\\PBIActivity\n\nCertes, les extraction du jour sont bonnes.\nMais :\n\n  *   La quasi-totalité des fichiers a été édité le 03/06/24 ou le 04/06/24\n  *   Les fichiers de plus de 30 jours sont toujours présents mais",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "Not Referenced Service",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Mise à jour des écrans Demande d'accès et Demande d'assistance à une application Data&Analytics c",
+    "description": "Bonjour,\n\nPourriez-vous svp créer un ticket et l'assigner à l'équipe WW - SERVICENOW ANALYSIS?\n________________________________\n\nLaurent,\n\nVoici une demande liée à la création de l'application Power BI : MM-ML Sales Forecast\n\nIl s'agit de l'ajouter sur 2 écrans (demande d'assistance et demande d'accès).\n\nPour les demandes d'accès (que l'on fera uniquement pour la production), 5 maisons sont concernées et chacune a son duo de validateurs\n\n  *   PCD:\n     *   Main contact : Aurelia Crespin (acresp",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "Open Up",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "CRM Clienteling: Clarification on Event Clienteling Revenue Tracking Period",
+    "description": "Hi BeautyTech team,\n\nGood day! We would like to seek your assistance in clarifying whether it is possible to set a specific period to track event clienteling revenue.\n\nAs we understand, event clienteling is automatically tracked for 2 weeks starting from the event date. However, our Retail team has requested to track sales within a shorter and more accurate period to ensure that only the actual event sales dates are captured.\n\nFor example:\n[cid:image001.png@01DC3761.7C6743D0]\n\nCould you kindly a",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "DIOR Connect",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Pas de rémontées tableau de bord LBM",
+    "description": "Bonjour,\n\nNous n'avons pas eu l'envoi du rapport ORTD4 et ORTD1 de la semaine du 9 au 15 octobre.\nPourriez-vous nous aider à ce sujet ?\n\nJe vous remercie,\nBien à vous,\nClarisse Lefèvre\n\n\n [cid:ff7af556-b6cb-4011-9204-2fb1048e7683]\n\n\n\nClarisse Lefèvre\n\nResponsable adjointe\n\nLe Bon Marché\n\n¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\n\nParfums Christian Dior\n24 rue de Sèvres, 75007 Paris\n\n+33 6 37 40 42 16\n\n\n\n\n###########################################################################################\nLe contenu de",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "User Workplace",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [fab8emea8selfbi8prd01] Premium Capacity is Overloaded 17/04/2025 09:47",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [fab8emea8corporate8dev01  Premium Capacity is Overloaded 03/11/2025 21:46",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R1016-Access request for PCD - Retail Scorecard-florence.george@lvmhbeauty.com-20240129_075009",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : florence.george@lvmhbeauty.com\n3) Requested for : florence.george@lvmhbeauty.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk char",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PCD - Retail Scorecard",
+      "impact": "4 - Utilisateur",
+      "urgence": "4 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Incident] R1435-Significant performance degradation of all SelfBI reports-tkaplya@lvmh-pc.com-20250121_084850",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Incident\n2) (2 fields) Requested by + Main contact : tkaplya@lvmh-pc.com\n3) Requested for : tkaplya@lvmh-pc.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "2 - Modéré",
+      "urgence": "2 - Moyenne",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] PBI - KO Job - PC-CSI-Dataset - 19/Dec/2025 10:03 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Beauty Intelligence Sell In",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [TrackSupportInbox] [Power BI] Request Access 29/11/2023 11:09",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "PCD - Retail Scorecard",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Ajout des KPI LY en self-BI sur la Retail Analysis",
+    "description": "Selected application: PCD - Retail Scorecard\nBonjour, \n\nSerait-il possible d'ajouter les KPI suivants en self-BI sur la Retail Analysis svp ? \n- Total sell-out  LY\n- # Transactions LY\n- Quantity  LY\n- AUS LY\n- IPT LY\n- Cross sell Transactions LY \n- Linked Transactions LY \n- # Active Clients LY \n- # New Clients LY \n\nMerci beaucoup par avance, \nClémence",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Licence Power BI",
+    "description": "Bonjour,\n\nLorsque je me connecte à Power BI, j’ai un message d’erreur qui apparaît :\n\n[cid:image001.png@01DA89DF.D39412E0]\n\nJ’avais fait une demande de licence en ce début d’année, qui à priori avait été clôturée :\n\n[cid:image002.png@01DA89E4.5A1F9920]\n\n\nPourriez-vous svp faire le nécessaire ?\n\nMerci,\n\nJuliette GEFFRAY\nIngénieure Qualité Nouveaux Produits\n\nLVMH Fragrance Brands  I 7 Avenue Montaigne - 60000 Beauvais\nT + +33 (0)3 44 89 65 41\n\n\n\n\n###################################################",
+    "entreprise": "LVMH FB",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Matériel",
+      "service": "Self BI",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "February closing sell out difference in report (Retail Scorecard, CSO dash board)",
+    "description": "Selected application: Givenchy - Retail Scorecard\nCan you see at the attached image, the sell out see the different. Please check problem.",
+    "entreprise": "LVMH FB",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Datas",
+      "service": "Givenchy - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Suppression de groupes de sécurité CSO",
+    "description": "Bonjour,\n\nPourriez-vous adresser cette demande à l'équipe WW - SUPERVISION & OPERATIONS, en charge de créer des groupes de sécurité « mail-enabled » SVP ?\n\nPour changer, nous allons faire du ménage sur de nombreux groupes créés pour les projets CSO qui sont inutilisés. Il va donc falloir supprimer ces groupes, créés en tant que groupe de sécurité mail-enable dans l'OU « POWERBI-AAS ».\n\n\n\nCeux avec comme préfixe\nGU-O365-CLOUD-PBI-AAS-DEV-CSO-\n\n\n\nGU-O365-CLOUD-PBI-AAS-PROD-CSO-\n\nGU-O365-CLOUD-PBI-",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "O365-PowerBI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "problème de remonté CA et KPI",
+    "description": "Selected application: BULY - Retail Scorecard light (Ipos)\nLe filtre PRODUCT CATEGORY ne fonctionne pas : quelle que soit la catégorie de produits sélectionnés, le CA et les KPI ne changent pas",
+    "entreprise": "OFFICINE UNIVERSELLE BULY",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "BULY - Retail Scorecard light (Ipos)",
+      "impact": "2 - Modéré",
+      "urgence": "1 - Elevée",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Performance issues in Newviz reports",
+    "description": "Dear all,\n\nWe are experiencing several issues with Newviz reports. For example, I am unable to change the reporting month as the page keeps loading indefinitely, and in general the reports are noticeably slower than usual.\n\nCould you please confirm if these problems are already being investigated or if corrective actions are planned?\n\nThank you in advance for your support.\n\nBest regards,\n\nThéo LE VOT\nData Owner Sales & Distribution\n\n[Logo Guerlain]\n\n23 rue de la Monnaie - 75001 Paris Cedex - Fra",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "Guerlain - NewViz",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Accès PowerBI Hong Kong",
+    "description": "Bonjour, j'aurais besoin d'accéder à la PowerBI de Hong Kong.\nJ'ai déjà accès à power BI mais uniquement à l'Europe. Comment puis je changer cela ? Merci\n\nLien : https://app.powerbi.com/groups/me/apps/ec5128cd-b0ce-4e88-b84a-c98aeae06fcd/reports/58e87186-0110-4870-8a38-1daeadaaf890/ReportSection?ctid=bddddbb1-db54-40d5-b230-0609bcef2068&experience=power-bi",
+    "entreprise": "OFFICINE UNIVERSELLE BULY",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "Microsoft PowerBI Desktop",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 20/03/2023 06:10",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "O365-PowerBI",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Data Beauty Community] New Form Response 15/12/2025 16:51 Soufyan EL BEKKAOUI",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 05/06/2025 12:09 Myriam CHENTIR",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1222-AREA MANAGER ZOE HUMPHREY NEEDS ACCESS TO AMANDA DAVIES' ACCOUN-jhoweedy@diormail.com-20240625_162405",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : jhoweedy@diormail.com\n3) Requested for : AREA MANAGER ZOE HUMPHREY\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Data issue on cross sell table",
+    "description": "Selected application: Travel Retail Excellence\nData on all cross sale table missing. There is cross sell on Skincare for Malaga or Ibiza but not data inside",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "Travel Retail Excellence",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "USER ACCES - PCD OMAN DATA RETAIL SCORECARD",
+    "description": "Selected application: [O365-PowerBI] PCD - Retail Scorecard\nDear team,\n\nCould you please create a guest account for this user + provide him access to power BI Retail Scorecard for OMAN ?\nMohamed Shoeib <mohamed.shoeib@csoman.com>\nMany thanks,",
+    "entreprise": "SSC",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "LCP performance evaluation discrepancy between Retail Scorecard Product Performance and RSC LCP Performance",
+    "description": "Selected application: PCD - Retail Scorecard\nHello,\nHope you are well. \n\nWe notice that regarding LCP performance in Retail Scorecard, there's an evaluation discrepancy between Product Performance tab (-(-5% vs LY) and LCP Performance tab (-4% vs LY) . However the total sell out is aligned: 4,424,198.  \nPlease see more details in the attachment (scope: France, Last month Dec 2025).\n\nCould you please investigate on this? And kindly let us know the reason. \n\nThank you,\nBest regards,\nBeifei",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Logiciel",
+      "service": "PCD - Retail Scorecard",
+      "impact": "2 - Modéré",
+      "urgence": "2 - Moyenne",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "Création de groupes AD & affectation des droits sur srvw2776",
+    "description": "Bonjour l'équipe Helpdesk,\n\nMerci de transférer la demande ci-dessous à l'équipe WW - SUPERVISION & OPERATIONS.\n\n\nBonjour,\n\nPourriez-vous créer les groupes de sécurité AD et affecter les droits aux dossiers correspondants, sur le server srvw2776?\n\nLes groupes :\nFS-DV-BEN-AMERICAS-READ\nFS-DV-BEN-AMERICAS-WRITE\n\nFS-DV-BEN-ATT-READ\nFS-DV-BEN-ATT-WRITE\n\nFS-DV-BEN-EUROPE-READ\nFS-DV-BEN-EUROPE-WRITE\n\nFS-DV-BEN-FINANCE-READ\nFS-DV-BEN-FINANCE-WRITE\n\nFS-DV-BEN-HR-READ\nFS-DV-BEN-HR-WRITE\n\nFS-DV-BEN-IT-REA",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Sécurité",
+      "service": "User Workplace",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 10/02/2025 12:10",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "La Data/AI Care Team vole à votre secours – CIBLE1874🚒📊",
+    "description": "Bonjour Nathalie,\n\n\n\nNous avons remarqué que certains de vos usages Power BI en date du 18/12/2025 à 09h21 (PC - CustomerServices) sont particulièrement intensifs (💪) — et cela peut parfois se traduire par des lenteurs ou des comportements un peu capricieux de vos rapports.\n\n\n\nPas d’inquiétude ! Notre équipe Data/AI Care Team (alias les pompiers de la Data 🔥🧯) est là pour vous accompagner et optimiser votre expérience.\n\n\n\n🎯 Pourquoi ce message ?\n\n\n\nNous avons détecté un volume d’activité ou un m",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "PCD - OTIF Customer Services",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [Request] R556-DROITS D'ACCES A PCIS BI SUPPLY-abdellaouin@makeupforever.fr-20230310_181628",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (3 fields) Requested by + Requested for + Main contact : abdellaouin@makeupforever.fr\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of the contact email ",
+    "entreprise": "MAKE UP FOR EVER",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Production",
+      "service": "O365-PowerBI",
+      "impact": "4 - Utilisateur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 10/06/2025 17:17 Caroline VALERA",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 22/01/2026 17:17",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] WTS - KO Job - \\AAS\\BT-Framwork-PBIGtwMonitor - 10/Feb/2025 10:03 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "MICROSOFT POWER APPS",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[DailyCheck Data/AI] Revue du color coding (en se basant sur les couleurs utilisées par Bruno dans son support sur l'organisation de l'équipe Data/AI Run)",
+    "description": "Voir la palette en P.J. qui correspond à ce qui est utilisé dans le support sur l'org. Data/AI Run (cf. document \"20260311_Palette de couleur au top.png\").\nURL en PROD des Rapports concernés : \n- https://app.powerbi.com/groups/me/apps/3dbe80d3-38e9-4d81-b2d7-dc4d4fe7880f/reports/0d4b9be7-eaa1-411c-9cfe-ff044ce8a0a3/ReportSection3c2776c38acad229b466?experience=power-bi\n- https://app.powerbi.com/groups/me/apps/3dbe80d3-38e9-4d81-b2d7-dc4d4fe7880f/reports/acfc5eed-47d5-4684-894a-bb79887ebb62/Report",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI Beauty Academy] New Form Response - Validation Formation 10/06/2025 17:20 Alexandra MARINOPOULOS",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Assistance",
+      "sous_categorie": "Application",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "need access to Dior connect dashboard for PCD",
+    "description": "Selected application: PCD - Dior Connect (Clienteling)\nneed access to Dior connect dashboard for PCD",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "PCD - Dior Connect (Clienteling)",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Team Performance - Split écran CRM",
+    "description": "Selected application: Guerlain - Retail Scorecard\nHello,\nL'écran CRM de la partie Team performance de la Retail Scorecard est censé être splitté en 2 comme pour la POS Performance.\nTous les KPI CRM calculés en YOY/YTD sont censés être basculés dans l'onglet CRM YOY/YTD",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "Guerlain - Retail Scorecard",
+      "impact": "2 - Modéré",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1241-accès panel_circana (shared folder)-ihichri-ext@pcis.lvmh-pc.com-20240710_145140",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : ihichri-ext@pcis.lvmh-pc.com\n3) Requested for : sdenis@diormail.com / tkakuk@diormail.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the aste",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [PBI_EMEA_SELFBI_PROD] Premium Capacity is Overloaded 14/01/2025 09:50",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Accès",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] [fab8emea8selfbi8prd01] Premium Capacity is Overloaded 08/09/2025 15:32",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PowerBI capacity overloaded ",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Medium - DTR - Anomalie : Mismatch between PBI VS Anaplan + Schoten OFF",
+    "description": "Bonjour Equipe Support,\n\nCe problème concerne les processus DTR - DIRECT TO RETAIL, merci de le signaler dans le champ « Eléments de configurations » / « Configuration Item » avec la valeur « DTR - DIRECT TO RETAIL »\n\nPOS Concernés :\n\n[cid:image002.png@01DC846C.061E84B0]\n\nMarché concerné : Belgium\n\nApplication : ANAPLAN, PBI\n\nJe rencontre le problème suivant :\n\nRésultat attendu :\n\nIf the stock picture is not updated and there is no day end in the till, we should not have 100% of evo stock ?\n\nRés",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "PCD - Direct To Retail",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [DailyCheck] AAS - KO Job - PCD-CRM-Campaign - 03/Feb/2025 10:02 AM",
+    "description": "Dear Helpdesk Team,\n\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\n\nCould you PLEASE COMPLETE/UPDATE the following 7 fields of this ServiceNow ticket with information red bellow:\n\nDemandé par/Requested by: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nDemandé pour/Requested for: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nContact principal/Primary contact: Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\n\nBusiness",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Guerlain - CRM",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1441-I'm Thao from Guerlain Vietnam - Position: Retail Planner-thnguyen@guerlain.fr-20250123_060453",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : thnguyen@guerlain.fr\n3) Requested for : thnguyen@guerlain.fr\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk character in front of th",
+    "entreprise": "GUERLAIN",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Accès",
+      "service": "Guerlain - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[DailyCheck Data/AI] Remplacer la notion de KO par \"Not OK\" dans l'ensemble des Reports",
+    "description": "[DailyCheck Data/AI] Remplacer la notion de KO par \"Not OK\" dans l'ensemble des Reports",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Bug",
+      "service": "BI Metrics",
+      "impact": "2 - Modéré",
+      "urgence": "2 - Moyenne",
+      "priorite": "2 - Majeure"
+    }
+  },
+  {
+    "breve_description": "[Help1111] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 09/09/2023 09:35",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "O365-PowerBI",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [Request] R1095-Middle East migration from Chalhoub to LVMH workspaces & gateway-florence.george@lvmhbeauty.com-20240322_062842",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 6 fields of this ServiceNow ticket with information in red bellow :\n1) Category : Request\n2) (2 fields) Requested by + Main contact : florence.george@lvmhbeauty.com\n3) Requested for : florence.george@lvmhbeauty.com\n=> /!\\ Hint : you can use the following regular expression in these fields to find the contact from its email address : *emailcontact @ domain . com (add the asterisk char",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "Self BI",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Request for unhiding measure",
+    "description": "Selected application: MAKE UP FOR EVER - BI Operations (BI Supply)\nBonjour, pouvez-vous retirer le masquage des mesures REQTRANS_ID et REQTRANS_QTY de notre cube BI SUPPLY svp ?",
+    "entreprise": "MAKE UP FOR EVER",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "MAKE UP FOR EVER - BI Operations (BI Supply)",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Retail Performance App Home Page Buttons link update",
+    "description": "Selected application: PCD - Retail Scorecard\nHello,\nHope you are well. \n\nWe would like to have an update on Retail Performance App Home Page Buttons Contact/ Support and Request / Incident's links.\n\nPlease find more details in the attachment. \n\nThank you,\nBest regards,\nBeifei",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Création de compte guest ae",
+    "description": "Bonjour,\n\nPourriez-vous svp assigner ce ticket au groupe Admin exchange ?\n\n\n@Nicolas Stephane ANDRE<mailto:nandre-ext@pcis.lvmh-pc.com>\nIl faudrait créer le compte guest pour Bouchra Elaroui Belaroui@ae.guerlain.com<mailto:Belaroui@ae.guerlain.com>\n\nMerci\n\n/!\\ Prochains congés / Next OOF :\n\nNicolas HIMBERT\nPower BI support Lead\nData & Analytics\n\n[Logo LVMH Beauty Tech]\n\n11 rue Blaise Pascal, 92200 Neuilly sur Seine / France\n+33617744112\nnhimbert@pcis.lvmh-pc.com<mailto:nhimbert@pcis.lvmh-pc.com>",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Sécurité",
+      "service": "MICROSOFT EXCHANGE",
+      "impact": "4 - Utilisateur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "[TechTicketing] [DataViz] [TrackSupportInbox] [Power BI] Dataset/Dataflow refresh issue 04/12/2025 12:05 Data&AI Guilds Follow-up",
+    "description": "Dear Helpdesk Team,\n\n/!\\ ACTIONS TO BE DONE BY THE HELPDESK TEAM :\nCould you PLEASE COMPLETE/UPTADE the following 8 fields of this ServiceNow ticket with information in red bellow :\nDemandé par/Requested by : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nDemandé pour/Requested for : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com)\nContact principal/Main contact : Pcis Dataviz SUPPORT TEAM (fr_pcis_dataviz_support_pbi@pcis.lvmh-pc.com),\nService :",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Datas",
+      "service": "BI Metrics",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "[PowerBI] Cube non rafraîchi au 29/08/2024",
+    "description": "Bonjour Mohamed, Charles Arsène,\n\nJe me permets de vous solliciter car nous voyons que le cube Sell-in activity n'est toujours pas chargé aujourd'hui.\nPourriez-vous voir de votre côté ?\n\nMerci à vous par avance.\n\nCordialement,\n\nSébastien MOULIN\nChef de projet BI - BI project manager\nBI Factory\n\n[Logo Dior]\n\nChristian Dior Parfums\n185 avenue de Verdun - 45804 Saint Jean de Braye / France\nEmail : semoulin@diormail.com<mailto:semoulin@diormail.com>\n\n\n\n\n\n#############################################",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - Sell in Activity",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Airflow alert: <TaskInstance: REFRESH_PBI_DATASET_RetailScorecard_PCD.REFRESH_PBI_DATASET__retail_scorecard.sensor_refresh scheduled__2025-05-22T03:45:00+00:00 [failed]>",
+    "description": "https://9c27e3ae48a04e48b6cce18e02cf9236-dot-europe-west1.composer.googleusercontent.com/dags/REFRESH_PBI_DATASET_RetailScorecard_PCD/grid?dag_run_id=scheduled__2025-05-22T03%3A45%3A00%2B00%3A00&task_id=REFRESH_PBI_DATASET__retail_scorecard.sensor_refresh&base_date=2025-05-22T03%3A45%3A00%2B0000&tab=logs",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Incident",
+      "sous_categorie": "Production",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Mise à jour des écrans Demande d'accès et Demande d'assistance à une application Data&Analytics PowerBI",
+    "description": "Bonjour,\n\nPourriez-vous svp créer un ticket et l'assigner à l'équipe WW - ServiceNow ?\n________________________________\n\nLaurent,\n\nVoici une demande liée à l'ajout d'une nouvelle application Power BI : MUFE - Connected Stock\n\nIl faudrait ajouter cette nouvelle application\n[cid:image001.png@01DC3E87.77FC6910]\n\n  *   Les demandes d'accès pourront être faite pour l'environnement de Production\n  *   Il y a 33 accès différents\n  *   Une demande d'accès sera soumise à validation de l'une de ces 2 pers",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Demande",
+      "sous_categorie": "Production",
+      "service": "ServiceNow",
+      "impact": "3 - Mineur",
+      "urgence": "3 - Faible",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Remove cases with type Spam from Customer Service Report",
+    "description": "Selected application: ADP - CRM Central App\nHello I would need to add or integrate, based on what is already implemented, the filter on type is not Spam in the following visual :\n-home page tab --> in the Number within the doughnut and in the table with detail by channel\n-closed cases --> add filter to all the visuals\n-case per type (details) --> in the doughnut \n-case per type (1&2) --> in the barchart\n-closing reason --> in the doughnut\n\nthanks in advance for the support\n\nBest regard,\nValentin",
+    "entreprise": "ACQUA DI PARMA",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "ADP - CRM Central App",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  },
+  {
+    "breve_description": "Enlarger Filter in Retail Performance App",
+    "description": "Selected application: PCD - Retail Scorecard\nHello,\nHope you are well.\nWould it be possible to enlarge the Filter in the Retail Performance App (Retail Scorecard, Retail Analysis, and Product Sales Dashboard...)?\nSome markets mentioned that it’s difficult to distinguish between Macro POS which has long POS label, such as Galeries Lafayette, as shown in the attached screenshot.\n\nThank you,\nBest regards,\nBeifei",
+    "entreprise": "DIOR",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "PCD - Retail Scorecard",
+      "impact": "3 - Mineur",
+      "urgence": "1 - Elevée",
+      "priorite": "3 - Mineure"
+    }
+  },
+  {
+    "breve_description": "Renommer tous les champs Optin en Reachability",
+    "description": "Selected application: ADP - CRM Central App\nRenommer tous les labels Optin en Reachability",
+    "entreprise": "LVMH BEAUTY TECH",
+    "labels": {
+      "categorie": "Changement applicatif",
+      "sous_categorie": "Evolution",
+      "service": "ADP - CRM Central App",
+      "impact": "3 - Mineur",
+      "urgence": "2 - Moyenne",
+      "priorite": "4 - Standard"
+    }
+  }
+]
