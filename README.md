@@ -2,7 +2,7 @@
 
 An intelligent, multi-agent system powered by **CrewAI** and **FastAPI** designed to automate ticket classification, priority calculation, and SLA monitoring with a premium React dashboard.
 
-<video src="assets/Demo.mp4" controls width="100%"></video>
+<video src="https://github.com/SemerNahdi/Ticket-Classifier-/raw/main/assets/Demo.mp4" controls width="100%"></video>
 
 ## 🌟 Key Features
 
