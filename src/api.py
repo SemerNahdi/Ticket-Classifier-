@@ -5,6 +5,7 @@ import pandas as pd
 from typing import List, Dict, Optional
 from fastapi import FastAPI, UploadFile, File, BackgroundTasks, HTTPException
 from fastapi.responses import FileResponse
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from pathlib import Path
 
@@ -13,12 +14,40 @@ from src.agents.ticket_crew import TicketInput, ClassificationResult, classify_t
 
 app = FastAPI(title="Ticket Agent API", description="AI-powered ticket classification backend")
 
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # In-memory job storage (In production, use Redis or a DB)
 JOBS: Dict[str, Dict] = {}
 
 # Paths
 TEMP_DIR = Path("data/output/temp_jobs")
+DB_FILE = Path("data/output/classifications_db.json")
 TEMP_DIR.mkdir(parents=True, exist_ok=True)
+
+def load_db() -> List[ClassificationResult]:
+    if not DB_FILE.exists():
+        return []
+    try:
+        with open(DB_FILE, "r") as f:
+            data = json.load(f)
+            return [ClassificationResult(**item) for item in data]
+    except:
+        return []
+
+def save_to_db(result: ClassificationResult):
+    db = load_db()
+    db.insert(0, result) # Newest first
+    # Keep last 100
+    db = db[:100]
+    with open(DB_FILE, "w") as f:
+        json.dump([res.dict() for res in db], f, indent=2)
 
 class JobStatus(BaseModel):
     job_id: str
@@ -35,9 +64,16 @@ def health_check():
 def classify_single(ticket: TicketInput):
     """Classify a single ticket synchronously."""
     try:
-        return classify_ticket(ticket)
+        result = classify_ticket(ticket)
+        save_to_db(result)
+        return result
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/tickets", response_model=List[ClassificationResult])
+def get_all_tickets():
+    """Retrieve all classified tickets from the 'database'."""
+    return load_db()
 
 @app.post("/classify/batch")
 def classify_batch_endpoint(tickets: List[TicketInput], background_tasks: BackgroundTasks):
@@ -131,6 +167,7 @@ def run_batch_job(job_id: str, tickets: List[TicketInput]):
     for ticket in tickets:
         try:
             result = classify_ticket(ticket)
+            save_to_db(result)
             results.append(result)
         except Exception as e:
             # Fallback error result
